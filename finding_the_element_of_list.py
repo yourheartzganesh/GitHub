@@ -1,5 +1,9 @@
 def finding_the_element_of_a_list(list,element):
     
+    x = 100
+     
+    print(x)
+    
     length_of_list_index = len(list)-1 
     
     if(length_of_list_index % 2 == 0 ):
