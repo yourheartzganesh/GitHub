@@ -1,7 +1,6 @@
 def finding_the_element_of_a_list(list,element):
     
-    x = 100
-     
+    x = 200 
     print(x)
     
     length_of_list_index = len(list)-1 
@@ -38,7 +37,7 @@ def intToStr(i):
     
     digits = '0123456789'
     
-    result = ''
+    result = ""
     
     if i == 0 :
         
