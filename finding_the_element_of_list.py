@@ -34,7 +34,7 @@ def intToStr(i):
     
     digits = '0123456789'
     
-    result = ''
+    result = ""
     
     if i == 0 :
         
